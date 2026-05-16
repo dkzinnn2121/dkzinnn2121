@@ -24,6 +24,7 @@ Ferramentas e linguagens que utilizo nos meus projetos de engenharia e simulaç�
 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dkzinnn2121&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkzinnn2121&layout=compact&theme=dark" alt="Linguagens mais usadas" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dkzinnn2121&show_icons=true&theme=dark&include_all_commits=true" alt="Estatísticas do GitHub" height="150" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dkzinnn2121&theme=dark" alt="Streak do GitHub" height="150" />
 </p>
