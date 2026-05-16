@@ -26,5 +26,5 @@ Estatísticas do GitHub
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dkzinnn2121&show_icons=true&theme=dark&include_all_commits=true" alt="Estatísticas do GitHub" height="150" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dkzinnn2121&theme=dark" alt="Streak do GitHub" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dkzinnn2121&layout=compact&theme=dark&hide_progress=true" alt="Linguagens mais usadas" height="150" />
 </p>
