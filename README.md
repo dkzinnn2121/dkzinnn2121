@@ -1,6 +1,6 @@
 # Olá, eu sou o Francisco Rafael! 
 
-Desenvolvedor |Atleta de Voleibol | Estudante de Engenharia de Computação
+Desenvolvedor | Atleta de Voleibol | Estudante de Engenharia de Computação
 
 ---
 
